@@ -29,7 +29,7 @@ Test
 google-chrome --new-window http://localhost:4000/
 ```
 
-```json
+```
 query ProductReviewById($id: String) {
   productById(id: $id) {
     id
