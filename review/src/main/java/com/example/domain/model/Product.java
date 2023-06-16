@@ -2,7 +2,6 @@ package com.example.domain.model;
 
 import io.smallrye.graphql.api.federation.Extends;
 import io.smallrye.graphql.api.federation.Key;
-import io.smallrye.graphql.api.federation.Provides;
 import org.eclipse.microprofile.graphql.Id;
 
 import java.util.UUID;

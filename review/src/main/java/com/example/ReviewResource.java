@@ -3,7 +3,6 @@ package com.example;
 import com.example.domain.model.Product;
 import com.example.domain.model.Review;
 import com.example.service.ReviewService;
-import io.smallrye.graphql.api.federation.Provides;
 import io.smallrye.mutiny.Uni;
 import jakarta.inject.Inject;
 import org.eclipse.microprofile.graphql.Description;
